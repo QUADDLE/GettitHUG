@@ -13,14 +13,14 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <style>
       #maindiv {
-        background: #CCC;
+        background-image: url("http://img.pr0gramm.com/2015/06/02/6b12309a8f57dc89.gif");
         border: 1px solid #666;
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 1.2em;
         color: #333;
         position: absolute;
-        width: 280px;
-        height: 250px;
+        width: 320px;
+        height: 180px;
         top: 30%;
         left: 50%;
         margin-top: -75px;
@@ -40,11 +40,11 @@
     <div id="maindiv">
       <div id="textdiv">
         <center>
-          <h6>Vielen Dank f&uuml;r deine Anmeldung.</h6>
+          <h6>Vielen Dank f&uuml;r deine Anmeldung!</h6>
         </center>
       </div>
     </div>
-  </body>
+   </body>
 </html>
   
 <?php
