@@ -1,0 +1,54 @@
+- autosaveworld.save
+- autosaveworld.backup
+- autosaveworld.reloadconfig
+- autosaveworld.reload
+
+- groupmanager.manuadd
+- groupmanager.manudel
+- groupmanager.manpromote
+- groupmanager.mandemote
+- groupmanager.manwhois
+
+- ls.admin
+
+- plotme.admin
+- plotme.admin.home.other
+- plotme.admin.list
+- plotme.admin.reset
+- plotme.admin.buy
+- plotme.admin.sell
+- plotme.admin.auction
+- plotme.admin.dispose
+- plotme.admin.done
+- plotme.admin.deny
+- plotme.admin.undeny
+- plotme.admin.setowner
+- plotme.admin.move
+- plotme.admin.weanywhere
+- plotme.admin.tp
+- plotme.admin.middle
+- plotme.admin.expired
+- plotme.admin.addtime
+- plotme.admin.resetexpired
+- plotme.admin.bypassdeny
+- plotme.admin.buildanywhere
+- plotme.admin.reload
+
+- customnpcs.npc.ai
+- customnpcs.npc.stats 
+- customnpcs.npc.display 
+- customnpcs.npc.inventory 
+- customnpcs.npc.advanced
+- customnpcs.spawner.mob 
+- customnpcs.spawner.create 
+- customnpcs.global.playerdata 
+- customnpcs.global.bank 
+- customnpcs.global.dialog 
+- customnpcs.global.transport 
+- customnpcs.global.faction 
+- customnpcs.global.quest 
+- customnpcs.global.recipe 
+- customnpcs.global.naturalspawn 
+- customnpcs.mounter 
+- customnpcs.pather 
+- customnpcs.villager 

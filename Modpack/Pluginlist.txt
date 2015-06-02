@@ -1,0 +1,5 @@
+AutoSaveWorld - http://dev.bukkit.org/bukkit-plugins/autosaveworld/
+EssentialsGroupManager - http://wiki.ess3.net/wiki/Group_Manager
+LoginSecurity - http://dev.bukkit.org/bukkit-plugins/loginsecurity/
+PlotMe - http://dev.bukkit.org/bukkit-plugins/plotme/
+WorldBorder - http://dev.bukkit.org/bukkit-plugins/worldborder/

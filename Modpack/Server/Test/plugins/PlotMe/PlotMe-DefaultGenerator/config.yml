@@ -1,0 +1,16 @@
+worlds:
+  gettithug:
+    PlotFloorBlock: '2'
+    RoadAltBlock: '5:2'
+    FillBlock: '3'
+    PathWidth: 0
+    ProtectedWallBlock: '0'
+    PlotSize: 256
+    UnclaimedBorder: '0'
+    XTranslation: 0
+    GroundHeight: 64
+    RoadMainBlock: '0'
+    ZTranslation: 0
+    WallBlock: '0'
+    ForSaleWallBlock: '0'
+    AuctionWallBlock: '0'

@@ -1,0 +1,358 @@
+AutoSaveWorld:
+
+- autosaveworld.help
+- autosaveworld.reload
+- autosaveworld.reloadconfig
+- autosaveworld.reloadmsg
+- autosaveworld.version
+- autosaveworld.info
+- autosaveworld.save
+- autosaveworld.backup
+- autosaveworld.purge
+- autosaveworld.restart
+- autosaveworld.regenworld
+- autosaveworld.pmanager
+
+EssentialsGroupManager:
+
+- groupmanager.manuadd
+- groupmanager.manudel
+- groupmanager.manpromote
+- groupmanager.mandemote
+- groupmanager.manwhois
+
+LoginSecurity:
+
+- ls.admin
+
+PlotMe:
+
+- plotme.use.claim
+- plotme.use.auto
+- plotme.use.home
+- plotme.use.list
+- plotme.use.info
+- plotme.use.biome
+- plotme.use.biomes
+- plotme.use.clear
+- plotme.use.dispose
+- plotme.use.done
+- plotme.use.deny
+- plotme.use.undeny
+- plotme.use.buy
+- plotme.use.sell
+- plotme.use.auction
+- plotme.use.reset
+- plotme.use.middle
+- plotme.use.add	
+- plotme.use.remove	
+- plotme.use.protect	
+- plotme.use.name	
+- plotme.use.like	
+- plotme.limit.1
+- plotme.admin
+- plotme.admin.home.other
+- plotme.admin.list
+- plotme.admin.reset
+- plotme.admin.buy
+- plotme.admin.sell
+- plotme.admin.auction
+- plotme.admin.dispose
+- plotme.admin.done
+- plotme.admin.deny
+- plotme.admin.undeny
+- plotme.admin.setowner
+- plotme.admin.move
+- plotme.admin.weanywhere
+- plotme.admin.tp
+- plotme.admin.middle
+- plotme.admin.expired
+- plotme.admin.addtime
+- plotme.admin.resetexpired
+- plotme.admin.bypassdeny
+- plotme.admin.buildanywhere
+- plotme.admin.reload
+- plotme.unblock.#
+
+WorldBorder:
+
+- worldborder.help
+- worldborder.set
+- worldborder.radius
+- worldborder.clear
+- worldborder.list
+- worldborder.shape
+- worldborder.knockback
+- worldborder.fill
+- worldborder.trim
+- worldborder.bypass
+- worldborder.bypasslist
+- worldborder.fillautosave
+- worldborder.wshape
+- worldborder.wrap
+- worldborder.getmsg
+- worldborder.setmsg
+- worldborder.delay
+- worldborder.whoosh
+- worldborder.portal
+- worldborder.denypearl
+- worldborder.dynmap
+- worldborder.dynmapmsg
+- worldborder.remount
+- worldborder.reload
+- worldborder.debug
+
+WorldEdit:
+
+/biomeinfo	worldedit.biome.info	/biomeinfo	pt	Get the biome of the targeted block.
+//setbiome	worldedit.biome.set	//setbiome	p	Sets the biome of the player's current block or region.
+/biomelist	worldedit.biome.list	/biomelist
+/chunkinfo	worldedit.chunkinfo	/chunkinfo		Get information about the chunk that you are inside
+/listchunks	worldedit.listchunks	/listchunks		List chunks that your selection includes
+/delchunks	worldedit.delchunks	/delchunks		Delete chunks that your selection includes
+//cut	worldedit.clipboard.cut	//cut	e	Cut the selection to the clipboard
+//paste	worldedit.clipboard.paste	//paste	sao	Paste the clipboard's contents
+//schem		Schematic-related commands
+//schematic formats	worldedit.schematic.formats	//schematic formats
+//schematic listformats
+//schematic f		List available schematic formats
+//schematic load	worldedit.clipboard.load, worldedit.schematic.load	//schematic load
+//schematic l	f	Load a schematic into your clipboard
+//schematic list	worldedit.schematic.list	//schematic list
+//schematic all
+//schematic ls	dn	List available schematics
+//schematic save	worldedit.clipboard.save, worldedit.schematic.save	//schematic save
+//schematic s		Save a schematic into your clipboard
+/clearclipboard	worldedit.clipboard.clear	/clearclipboard		Clear your clipboard
+//load	worldedit.clipboard.load	//load		Load a schematic into your clipboard
+//save	worldedit.clipboard.save	//save		Save a schematic into your clipboard
+//copy	worldedit.clipboard.copy	//copy	e	Copy the selection to the clipboard
+//flip	worldedit.clipboard.flip	//flip	p	Flip the contents of the clipboard.
+//rotate	worldedit.clipboard.rotate	//rotate		Rotate the contents of the clipboard
+/we		/we
+/worldedit		WorldEdit commands
+/we reload	worldedit.reload	/we reload		Reload WorldEdit
+/we cui		/we cui		Complete CUI handshake
+/we tz		/we tz		Set your timezone
+/we version		/we version
+/we ver		Get WorldEdit version
+/we help	worldedit.help	/we help		Displays help for the given command or lists all commands.
+//fast	worldedit.fast	//fast		Toggle fast mode
+//gmask	worldedit.global-mask	//gmask
+/gmask		Set the global mask
+//toggleplace		//toggleplace
+/toggleplace		Switch between your position and pos1 for placement
+//searchitem		//searchitem
+//l
+//search
+/searchitem	bi	Search for an item
+//limit	worldedit.limit	//limit		Modify block change limit
+//hcyl	worldedit.generation.cylinder	//hcyl		Generates a hollow cylinder.
+//cyl	worldedit.generation.cylinder	//cyl		Generates a cylinder.
+//hsphere	worldedit.generation.sphere	//hsphere		Generates a hollow sphere.
+//sphere	worldedit.generation.sphere	//sphere		Generates a filled sphere.
+/forestgen	worldedit.generation.forest	/forestgen		Generate a forest
+/pumpkins	worldedit.generation.pumpkins	/pumpkins		Generate pumpkin patches
+//pyramid	worldedit.generation.pyramid	//pyramid		Generate a filled pyramid
+//hpyramid	worldedit.generation.pyramid	//hpyramid		Generate a hollow pyramid
+//generate	worldedit.generation.shape	//generate
+//gen
+//g	hroc	Generates a shape according to a formula.
+//generatebiome	worldedit.generation.shape, worldedit.biome.set	//generatebiome
+//genbiome
+//gb	hroc	Sets biome according to a formula.
+//undo	worldedit.history.undo	//undo
+/undo		Undoes the last action
+//redo	worldedit.history.redo	//redo
+/redo		Redoes the last action (from history)
+//clearhistory	worldedit.history.clear	//clearhistory
+/clearhistory		Clear your history
+/unstuck	worldedit.navigation.unstuck	/unstuck
+/!		Escape from being stuck inside a block
+/ascend	worldedit.navigation.ascend	/ascend
+/asc		Go up a floor
+/descend	worldedit.navigation.descend	/descend
+/desc		Go down a floor
+/ceil	worldedit.navigation.ceiling	/ceil	fg	Go to the celing
+/thru	worldedit.navigation.thru.command	/thru		Passthrough walls
+/jumpto	worldedit.navigation.jumpto.command	/jumpto
+/j		Teleport to a location
+/up	worldedit.navigation.up	/up	fg	Go upwards some distance
+//hollow	worldedit.region.hollow	//hollow		Hollows out the object contained in this selection
+//line	worldedit.region.line	//line	h	Draws a line segment between cuboid selection corners
+//curve	worldedit.region.curve	//curve	h	Draws a spline through selected points
+//overlay	worldedit.region.overlay	//overlay		Set a block on top of blocks in the region
+//center	worldedit.region.center	//center
+//middle		Set the center block(s)
+//naturalize	worldedit.region.naturalize	//naturalize		3 layers of dirt on top then rock below
+//walls	worldedit.region.walls	//walls		Build the four sides of the selection
+//faces	worldedit.region.faces	//faces
+//outline		Build the walls, ceiling, and floor of a selection
+//smooth	worldedit.region.smooth	//smooth	n	Smooth the elevation in the selection
+//move	worldedit.region.move	//move	s	Move the contents of the selection
+//regen	worldedit.regen	//regen		Regenerates the contents of the selection
+//deform	worldedit.region.deform	//deform	ro	Deforms a selected region with an expression
+//forest	worldedit.region.forest	//forest		Make a forest within the region
+//replace	worldedit.region.replace	//replace
+//re
+//rep	f	Replace all blocks in the selection with another
+//stack	worldedit.region.stack	//stack	sa	Repeat the contents of the selection
+//set	worldedit.region.set	//set		Set all the blocks inside the selection to a block
+/.s	worldedit.scripting.execute	/.s		Execute last CraftScript
+/cs	worldedit.scripting.execute	/cs		Execute a CraftScript
+//pos2	worldedit.selection.pos	//pos2		Set position 2
+//chunk	worldedit.selection.chunk	//chunk	sc	Set the selection to your current chunk.
+//pos1	worldedit.selection.pos	//pos1		Set position 1
+//hpos1	worldedit.selection.hpos	//hpos1		Set position 1 to targeted block
+//hpos2	worldedit.selection.hpos	//hpos2		Set position 2 to targeted block
+//wand	worldedit.wand	//wand		Get the wand object
+/toggleeditwand	worldedit.wand.toggle	/toggleeditwand		Toggle functionality of the edit wand
+//contract	worldedit.selection.contract	//contract		Contract the selection area
+//outset	worldedit.selection.outset	//outset	hv	Outset the selection area
+//inset	worldedit.selection.inset	//inset	hv	Inset the selection area
+//distr	worldedit.analysis.distr	//distr	cd	Get the distribution of blocks in the selection
+//sel		//sel
+/;		Choose a region selector
+//desel		//desel
+//deselect		Deselect the current selection
+//count	worldedit.analysis.count	//count	d	Counts the number of a certain type of block
+//size	worldedit.selection.size	//size	c	Get information about the selection
+//expand	worldedit.selection.expand	//expand		Expand the selection area
+//shift	worldedit.selection.shift	//shift		Shift the selection area
+/snapshot		/snapshot
+/snap		Snapshot commands
+/snapshot use	worldedit.snapshots.restore	/snapshot use		Choose a snapshot to use
+/snapshot sel	worldedit.snapshots.restore	/snapshot sel		Choose the snapshot based on the list id
+/snapshot list	worldedit.snapshots.list	/snapshot list		List snapshots
+/snapshot after	worldedit.snapshots.restore	/snapshot after		Choose the nearest snapshot after a date
+/snapshot before	worldedit.snapshots.restore	/snapshot before		Choose the nearest snapshot before a date
+/restore	worldedit.snapshots.restore	/restore
+//restore		Restore the selection from a snapshot
+//	worldedit.superpickaxe	//
+/,		Toggle the super pickaxe pickaxe function
+/superpickaxe		/superpickaxe
+/pickaxe
+/sp		Select super pickaxe mode
+/superpickaxe single	worldedit.superpickaxe	/superpickaxe single		Enable the single block super pickaxe mode
+/superpickaxe area	worldedit.superpickaxe.area	/superpickaxe area		Enable the area super pickaxe pickaxe mode
+/superpickaxe recur	worldedit.superpickaxe.recursive	/superpickaxe recur
+/superpickaxe recursive		Enable the recursive super pickaxe pickaxe mode
+/tool		/tool		Select a tool to bind
+/tool none		/tool none		Unbind a bound tool from your current item
+/tool tree	worldedit.tool.tree	/tool tree		Tree generator tool
+/tool repl	worldedit.tool.replacer	/tool repl		Block replacer tool
+/tool cycler	worldedit.tool.data-cycler	/tool cycler		Block data cycler tool
+/tool floodfill	worldedit.tool.flood-fill	/tool floodfill
+/tool flood		Flood fill tool
+/tool brush		/tool brush
+/tool br		Brush tool
+/tool brush sphere	worldedit.brush.sphere	/tool brush sphere
+/tool brush s	h	Choose the sphere brush
+/tool brush cylinder	worldedit.brush.cylinder	/tool brush cylinder
+/tool brush cyl
+/tool brush c	h	Choose the cylinder brush
+/tool brush clipboard	worldedit.brush.clipboard	/tool brush clipboard
+/tool brush copy	a	Choose the clipboard brush
+/tool brush smooth	worldedit.brush.smooth	/tool brush smooth	n	Choose the terrain softener brush
+/tool brush ex	worldedit.brush.ex	/tool brush ex
+/tool brush extinguish		Shortcut fire extinguisher brush
+/tool brush gravity	worldedit.brush.gravity	/tool brush gravity
+/tool brush grav	h	Gravity brush
+/tool brush butcher	worldedit.brush.butcher	/tool brush butcher
+/tool brush kill		Butcher brush
+/tool deltree	worldedit.tool.deltree	/tool deltree		Floating tree remover tool
+/tool farwand	worldedit.tool.farwand	/tool farwand		Wand at a distance tool
+/tool lrbuild	worldedit.tool.lrbuild	/tool lrbuild
+/tool /lrbuild		Long-range building tool
+/tool info	worldedit.tool.info	/tool info		Block information tool
+/mat	worldedit.brush.options.material	/mat
+/material		Set the brush material
+/range	worldedit.brush.options.range	/range		Set the brush range
+/size	worldedit.brush.options.size	/size		Set the brush size
+/mask	worldedit.brush.options.mask	/mask		Set the brush mask
+/none		/none		Unbind a bound tool from your current item
+/tree	worldedit.tool.tree	/tree		Tree generator tool
+/repl	worldedit.tool.replacer	/repl		Block replacer tool
+/cycler	worldedit.tool.data-cycler	/cycler		Block data cycler tool
+/floodfill	worldedit.tool.flood-fill	/floodfill
+/flood		Flood fill tool
+/brush		/brush
+/br		Brush tool
+/brush sphere	worldedit.brush.sphere	/brush sphere
+/brush s	h	Choose the sphere brush
+/brush cylinder	worldedit.brush.cylinder	/brush cylinder
+/brush cyl
+/brush c	h	Choose the cylinder brush
+/brush clipboard	worldedit.brush.clipboard	/brush clipboard
+/brush copy	a	Choose the clipboard brush
+/brush smooth	worldedit.brush.smooth	/brush smooth	n	Choose the terrain softener brush
+/brush ex	worldedit.brush.ex	/brush ex
+/brush extinguish		Shortcut fire extinguisher brush
+/brush gravity	worldedit.brush.gravity	/brush gravity
+/brush grav	h	Gravity brush
+/brush butcher	worldedit.brush.butcher	/brush butcher
+/brush kill		Butcher brush
+/deltree	worldedit.tool.deltree	/deltree		Floating tree remover tool
+/farwand	worldedit.tool.farwand	/farwand		Wand at a distance tool
+/lrbuild	worldedit.tool.lrbuild	/lrbuild
+//lrbuild		Long-range building tool
+/info	worldedit.tool.info	/info		Block information tool
+//fillr	worldedit.fill.recursive	//fillr		Fill a hole recursively
+//drain	worldedit.drain	//drain		Drain a pool
+//fixlava	worldedit.fixlava	//fixlava
+/fixlava		Fix lava to be stationary
+//fixwater	worldedit.fixwater	//fixwater
+/fixwater		Fix water to be stationary
+//removeabove	worldedit.removeabove	//removeabove
+/removeabove		Remove blocks above your head.
+//removebelow	worldedit.removebelow	//removebelow
+/removebelow		Remove blocks below you.
+//removenear	worldedit.removenear	//removenear
+/removenear		Remove blocks near you.
+//replacenear	worldedit.replacenear	//replacenear
+/replacenear	f	Replace nearby blocks
+//snow	worldedit.snow	//snow
+/snow		Simulates snow
+//thaw	worldedit.thaw	//thaw
+/thaw		Thaws the area
+//green	worldedit.green	//green
+/green	f	Greens the area
+//ex	worldedit.extinguish	//ex
+//ext
+//extinguish
+/ex
+/ext
+/extinguish		Extinguish nearby fire
+/butcher	worldedit.butcher	/butcher	plangbf	Kill all or nearby mobs
+/remove	worldedit.remove	/remove
+/rem
+/rement		Remove all entities of a type
+//fill	worldedit.fill	//fill		Fill a hole
+//help	worldedit.help	//help		Displays help for the given command or lists all commands.
+
+CustomNPCs:
+
+customnpcs.npc.gui 
+customnpcs.npc.create 
+customnpcs.npc.edit 
+customnpcs.npc.delete 
+customnpcs.npc.reset 
+customnpcs.npc.freeze 
+customnpcs.npc.ai 
+customnpcs.npc.stats 
+customnpcs.npc.display 
+customnpcs.npc.inventory 
+customnpcs.npc.advanced 
+customnpcs.spawner.mob 
+customnpcs.spawner.create 
+customnpcs.global.playerdata 
+customnpcs.global.bank 
+customnpcs.global.dialog 
+customnpcs.global.transport 
+customnpcs.global.faction 
+customnpcs.global.quest 
+customnpcs.global.recipe 
+customnpcs.global.naturalspawn 
+customnpcs.mounter 
+customnpcs.pather 
+customnpcs.villager 

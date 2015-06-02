@@ -1,0 +1,13 @@
+Aktuell gebrauchte Version: 1.7.10
+
+CustomNPCs: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278956-custom-npcs
+
+Forge: http://files.minecraftforge.net/
+
+WorldEdit: 
+- Download - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272389-worldedit-in-game-map-editor-and-tools-for
+- Wiki - http://wiki.sk89q.com/wiki/WorldEdit/Quick_start
+- CUI - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui
+
+Liteloader: http://www.liteloader.com/
+
