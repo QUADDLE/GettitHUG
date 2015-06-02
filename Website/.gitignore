@@ -1,1 +1,4 @@
-
+#Hier steht eine Funktion mit SQL Daten drin
+#Um die Funktion ohne eingetragene Daten einzusehen
+#Siehe functions.php -> mysql_verbindung_beispiel
+mysql_daten.php
