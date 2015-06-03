@@ -1,8 +1,0 @@
-[20:28:55][FINE][noppes.npcs.controllers.ScriptController:58] Mon Jun 01 20:28:55 CEST 2015
-[20:28:55][FINE][noppes.npcs.CustomNpcs:180] Script Engines Available:
-[20:28:55][FINE][noppes.npcs.CustomNpcs:180] ECMAScript: .js
-[20:28:56][FINE][noppes.npcs.controllers.LinkedNpcController:29] Loading Linked Npcs
-[20:28:56][FINE][noppes.npcs.controllers.LinkedNpcController:29] Done loading Linked Npcs
-[20:29:01][FINE][noppes.npcs.controllers.DialogController:27] Loading Dialogs
-[20:29:01][FINE][noppes.npcs.controllers.DialogController:27] Done loading Dialogs
-[20:30:34][FINE][noppes.npcs.CustomNpcsPermissions:10] Bukkit permissions enabled
