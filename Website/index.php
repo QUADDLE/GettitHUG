@@ -13,7 +13,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <style>
       #maindiv {
-        background-image: url("http://img.pr0gramm.com/2015/06/02/6b12309a8f57dc89.gif");
+        background-image: url("http://media4.giphy.com/media/aKjnUBa0nSGn6/giphy.gif");
         border: 1px solid #666;
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 1.2em;
